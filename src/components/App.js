@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/App.css';
 import ReactDOM from 'react-dom';
 
 const App = () => {
@@ -12,4 +11,4 @@ const App = () => {
 };
 
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App/>, document.getElementById('root'));
